@@ -1,7 +1,6 @@
 # UK-Airport-Route-Passenger-Demand-Analysis-and-Forecasting-CAA-Data-
-How airports and airlines forecast passenger demand by airport, route, and terminal type to support capacity planning, staffing, and network decisions
-aviation-demand-forecasting/
-│
+How is passenger demand changing across UK airports and routes, what risks does that create, and what does the future look like?
+Among major UK airports, recovery rates vary significantly, with some large airports experiencing near-flat 5-year CAGR while others show materially negative trends, highlighting uneven post-shock demand normalisation
 ├── data/
 │   ├── raw/
 │   ├── processed/
